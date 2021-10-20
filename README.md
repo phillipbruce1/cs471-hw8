@@ -1,9 +1,5 @@
 # Workflow Strategies for Integrating/Merging Pull Requests and Establishing Traceability between commits and tasks (and pull requests).
 
-Commit 1
-Commit 2
-Commit 3
-
 ## Step 1 - Create a New Repository
 Using your personal GitHub account [create new a GitHub repository](https://github.com/new) called `CS471WorkflowsHomeworkAssignment`.
 - The following option: `Initialize this repository with a README` should be **disabled**/**unchecked**.
